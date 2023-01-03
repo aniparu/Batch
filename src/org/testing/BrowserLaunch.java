@@ -16,9 +16,15 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 public class BrowserLaunch {
 	private void add() {
 		System.out.println("abc");
+<<<<<<< HEAD
 		System.out.println("Sorry for the delay");
+=======
+		System.out.println("Hai How Are today...");
+>>>>>>> 8fd2754fcea5d80e9a4b283407a7a28f48a67a7d
 
 	}
+	
+	
 	
 	
 	public static void main(String[] args) throws InterruptedException {
